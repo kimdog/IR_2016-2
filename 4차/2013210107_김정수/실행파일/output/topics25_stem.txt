@@ -1,0 +1,636 @@
+<top>
+<num> 303
+hubbl telescop achiev 
+identifi posit accomplish hubbl telescop 
+launch 
+document relev show hubbl telescop produc 
+data qualiti data previous data 
+increas human knowledg univers data led 
+disprov previous exist theori hypothes document 
+limit shortcom telescop irrelev 
+detail repair modif telescop 
+refer posit achiev relev 
+</top>
+
+<top>
+<num> 307
+hydroelectr project 
+identifi hydroelectr project propos construct 
+countri locat detail descript natur extent 
+purpos problem consequ desir 
+relev document minimum clear statement 
+hydroelectr project plan construct 
+locat project renov exist 
+facil judg relev plan call 
+signific increas acr feet reservoir mark chang 
+environment impact project argument 
+propos project relev long support 
+specif includ minimum locat 
+project statement individu organ 
+project general relev propos 
+project underway dismantl exist facil drain 
+exist reservoir relev articl report 
+decis drop propos plan 
+</top>
+
+<top>
+<num> 310
+radio wave brain cancer 
+evid radio wave radio tower car phone affect 
+brain cancer occurr 
+person live radio tower recent person 
+car phone diagnos brain cancer argument 
+rage direct associ 
+incid cancer group cite consid 
+higher found normal popul 
+relev document includ experi anim statist 
+studi articl news item report incid brain 
+cancer higher lower person live 
+radio tower car phone compar 
+general popul 
+</top>
+
+<top>
+<num> 314
+marin veget 
+commerci harvest marin veget 
+alga seawe kelp food drug purpos 
+recent research shown marin veget 
+valuabl sourc food human anim 
+potenti drug search 
+focus primarili 
+consid relev instanc 
+commerci fertil 
+</top>
+
+<top>
+<num> 322
+intern art crime 
+isol instanc fraud embezzl intern 
+art trade 
+relev document report identifi instanc 
+fraud embezzl intern buy sell 
+art object object includ paint jewelri sculptur 
+valuabl work art specif instanc 
+identifi document relev general 
+relev 
+</top>
+
+<top>
+<num> 325
+cult lifestyl 
+describ cult identifi cult member 
+activ everyday life 
+relev document includ cult 
+offer inform member lifestyl 
+includ dress attain 
+ultim goal organ relev 
+document eat contribut 
+cult mention exist 
+cult clarifi inform 
+relev 
+</top>
+
+<top>
+<num> 330
+iran iraq cooper 
+queri exampl cooper 
+friend tie iran iraq way 
+countri consid alli 
+relev document mention mutual 
+benefici econom militari religi social 
+relat cooper border control treatment 
+minor collabor trade sanction 
+countri mention 
+return airplan iraq flew iran 
+gulf war relev 
+</top>
+
+<top>
+<num> 336
+black bear attack 
+relev document discuss frequenc 
+vicious black bear attack worldwid 
+savag behavior 
+report food cosmet 
+attract hungri black bear caus 
+vicious attack human relev 
+document includ aforement 
+specul prefer 
+scientif communiti 
+vicious attack black bear 
+relev document detail step 
+method devis wildlif 
+offici control modifi 
+savag black bear 
+</top>
+
+<top>
+<num> 341
+airport secur 
+relev document discuss effect 
+govern order scrutin passeng 
+luggag intern flight step 
+screen carri baggag 
+relev document report 
+step airport worldwid 
+scrutin passeng luggag 
+intern flight step screen 
+carri baggag increas 
+intern terror wake 
+twa flight disast articl airport 
+secur relat addit 
+step airport increas flight safeti 
+relev mere mention enhanc 
+secur constitut relev addit 
+step refer passeng 
+carri screen normal method 
+exampl step addit personnel 
+sophist monitor screen devic 
+extraordinari measur check luggag 
+baggag compart 
+</top>
+
+<top>
+<num> 344
+abus mail 
+avail mail peopl 
+job school affili allow effici 
+communic provid opportun 
+abus step world wide 
+bear cost mail prevent excess 
+relev document concern dissatisfact 
+entiti pay cost electron mail 
+sought item relat system user employe 
+abus system engag communic type 
+relat payer desir system 
+</top>
+
+<top>
+<num> 345
+oversea tobacco sale 
+health studi primarili caus reduct 
+tobacco sale econom impact caus 
+tobacco compani oversea custom 
+impact health econom factor oversea 
+relev item discuss increas 
+decreas sale tobacco product oversea 
+attribut health find aggress market 
+compani foreign compani cooper 
+
+</top>
+
+<top>
+<num> 347
+wildlif extinct 
+spot owl episod america highlight effort 
+prevent extinct wildlif speci 
+effort countri prevent 
+demis speci nativ countri 
+countri begun effort prevent declin 
+relev item countri involv 
+speci step save speci 
+</top>
+
+<top>
+<num> 353
+antarctica explor 
+identifi systemat explor scientif investig 
+antarctica current plan 
+document discuss issu relev 
+</top>
+
+<top>
+<num> 354
+journalist risk 
+identifi instanc journalist put risk 
+kill arrest hostag perform work 
+document identifi instanc journalist 
+correspond kill arrest hostag 
+perform work relev 
+</top>
+
+<top>
+<num> 362
+human smuggl 
+identifi incid human smuggl 
+relev document show incid human 
+ten smuggl smuggler 
+realiz monetari gain 
+action peopl smuggl 
+particip 
+</top>
+
+<top>
+<num> 363
+transport tunnel disast 
+disast occur tunnel 
+transport 
+relev document identifi disast tunnel 
+train motor vehicl peopl wind 
+tunnel tunnel wire sewag water oil 
+relev problem 
+fire earthquak flood explos 
+accident plan document discuss tunnel 
+disast occur construct tunnel 
+relev live threaten 
+</top>
+
+<top>
+<num> 367
+piraci 
+modern instanc fashion 
+piraci board control boat 
+document discuss piraci bodi water 
+relev document discuss legal 
+ship content nation author 
+relev clash fish vessel 
+fish relev vessel 
+board 
+</top>
+
+<top>
+<num> 372
+nativ american casino 
+identifi document discuss growth nativ 
+american casino gambl 
+relev document includ discuss 
+nativ american casino gambl social 
+implic effect local nativ american 
+economi legal aspect relat nativ 
+american tribal autonomi 
+</top>
+
+<top>
+<num> 374
+nobel prize winner 
+identifi provid background inform nobel 
+prize winner 
+minimum relev document 
+inform year nobel prize award 
+field studi recipi 
+document announc current award 
+year requir 
+</top>
+
+<top>
+<num> 375
+hydrogen energi 
+status research hydrogen 
+feasibl energi sourc 
+relev document describ progress 
+research control hydrogen fusion 
+hydrogen fuel power engin 
+</top>
+
+<top>
+<num> 378
+euro opposit 
+identifi document discuss opposit 
+introduct euro european currenc 
+relev document includ countri 
+individu oppos euro 
+reason opposit 
+</top>
+
+<top>
+<num> 383
+mental ill drug 
+identifi drug treatment mental ill 
+relev document includ specif 
+generic type drug general relev 
+</top>
+
+<top>
+<num> 389
+illeg technolog transfer 
+specif entiti accus illeg 
+technolog transfer sell product 
+formula direct indirect foreign 
+entiti peac purpos 
+relev select document specif 
+identifi person compani government entiti 
+provid articl hostil purpos 
+entiti countri 
+provis violat law provid countri 
+</top>
+
+<top>
+<num> 393
+merci kill 
+identifi document discuss merci kill 
+individu case merci kill relev 
+letter editor mention case relev 
+remov life support system relev general 
+mention descript case specif 
+victim relev case determin 
+murder suicid relev 
+</top>
+
+<top>
+<num> 394
+home school 
+identifi document discuss educ 
+children home home school 
+relev document data 
+educ children home environ 
+includ data 
+communiti accept success addit 
+data program aid educ 
+disadvantag children school 
+environ mobil vehicl classroom 
+consid home school 
+relev 
+</top>
+
+<top>
+<num> 397
+automobil recal 
+identifi document discuss reason 
+automobil recal 
+relev document major minor reason 
+automobil recal car manufactur document 
+discuss truck recal relev 
+</top>
+
+<top>
+<num> 399
+oceanograph vessel 
+identifi document discuss 
+activ equip oceanograph 
+vessel 
+relev document inform 
+activ oceanograph vessel 
+nation item undersea map 
+monitor global warm marin environment 
+monitor deep sea robot 
+search sunken ship relev oceanographi 
+activ relev action 
+vessel research develop 
+equip explor ocean resourc 
+refer equip aboard oceanograph 
+vessel relev document identifi vessel 
+survey ship involv oceanograph 
+activ relev 
+</top>
+
+<top>
+<num> 401
+foreign minor germani 
+languag cultur differ imped integr 
+foreign minor germani 
+relev document focus lack 
+integr signific mere mention 
+immigr difficulti relev document discuss 
+immigr problem unrel germani relev 
+</top>
+
+<top>
+<num> 404
+ireland peac talk 
+peac talk ireland delay 
+disrupt result act violenc 
+interrupt peac process direct 
+attribut act violenc relev 
+</top>
+
+<top>
+<num> 408
+tropic storm 
+tropic storm hurrican typhoon 
+caus signific properti damag loss life 
+date storm area affect extent 
+damag casualti interest document describ 
+damag caus tropic storm slight limit 
+small relev 
+</top>
+
+<top>
+<num> 409
+legal pan 
+legal action result destruct 
+pan flight lockerbi scotland 
+decemb 
+document describ charg claim fine 
+present impos court tribun 
+relev document discuss charg made 
+diplomat joust relev 
+</top>
+
+<top>
+<num> 416
+gorg project 
+status gorg project 
+relev document provid project 
+date complet project estim 
+total cost estim electr output 
+finish project discuss 
+social polit ecolog impact 
+project relev 
+</top>
+
+<top>
+<num> 419
+recycl automobil tire 
+develop 
+automobil tire mean tire recycl 
+relev document show advantag 
+recycl tire destruct distil 
+scrap rubber valuabl chemic reef build 
+fish habitat filler binder asphalt 
+roadway mix burn control 
+environ heat generat 
+</top>
+
+<top>
+<num> 426
+law enforc dog 
+provid inform dog worldwid 
+law enforc purpos 
+relev item includ specif inform 
+dog oper train dog 
+handler relev 
+</top>
+
+<top>
+<num> 427
+uv damag eye 
+find document discuss damag ultraviolet uv 
+light sun eye 
+relev document discuss diseas result 
+exposur eye uv light treatment 
+damag educ program 
+prevent damag document discuss treatment 
+method cataract ocular melanoma relev 
+specif mention 
+document discuss radiat damag nuclear 
+sourc laser relev 
+</top>
+
+<top>
+<num> 433
+greek philosophi stoicism 
+contemporari interest greek 
+philosophi stoicism 
+actual refer philosophi philosoph 
+product greek stoic play stoic 
+artist product relev 
+</top>
+
+<top>
+<num> 435
+curb popul growth 
+measur worldwid 
+countri effect curb 
+popul growth 
+relev document describ actual case 
+popul measur result 
+reduct measur activ pursu 
+passiv event diseas famin 
+involuntarili reduc popul relev 
+</top>
+
+<top>
+<num> 436
+railway accid 
+railway accid 
+world 
+relev document data railway accid 
+sort locomot trolley streetcar 
+railroad system vehicl pedestrian 
+involv caus accid document discuss 
+railroad general rail line technolog 
+safeti safeti accid prevent 
+relev actual accid 
+</top>
+
+<top>
+<num> 439
+invent scientif discoveri 
+invent scientif discoveri 
+made 
+word descript defin occur 
+document recent 
+invent scientif discoveri consid relev 
+discoveri made astronomi scientif discoveri 
+patent relev 
+</top>
+
+<top>
+<num> 443
+invest africa 
+extent govern privat 
+invest saharan africa 
+refer government privat assist 
+saharan africa relev document discuss 
+contribut reason membership intern 
+aid organ relev 
+</top>
+
+<top>
+<num> 448
+ship loss 
+identifi instanc weather main contribut 
+factor loss ship sea 
+ship loss due weather relev intern 
+coastal water 
+</top>
+
+<top>
+<num> 622
+price fix 
+identifi compani corpor accus indict 
+price fix includ product type product involv 
+relev document compani product involv 
+document price fix stock market relev 
+</top>
+
+<top>
+<num> 625
+arrest bomb wtc 
+identifi document provid inform arrest 
+convict bomber world trade center wtc februari 
+relev document inform arrest 
+convict relat bomb simpl claim involv 
+relev 
+</top>
+
+<top>
+<num> 638
+wrong convict 
+find document discuss freed prison wrong 
+convict base faulti forens evid poor polic work fals 
+testimoni 
+document polit prison freed 
+incompet prosecut relev document 
+discuss prison pardon releas bond 
+convict overturn relev 
+document prison freed make polit 
+statement prison freed exchang 
+</top>
+
+<top>
+<num> 639
+consum line shop 
+factor contribut growth consum line 
+shop 
+relev document describ factor contribut 
+increas line shop consum document 
+statist data support growth factor 
+relev 
+</top>
+
+<top>
+<num> 648
+famili leav law 
+identifi document discuss detail famili leav law 
+long compens reason allow 
+relev document detail famili leav law 
+relev mere mention exist law 
+relev 
+</top>
+
+<top>
+<num> 650
+tax evas indict 
+identifi individu corpor indict 
+charg tax evas million dollar 
+
+relev document detail larg scale tax 
+evas document peopl lost excess million 
+dollar result busi organ indict 
+tax fraud relev 
+</top>
+
+<top>
+<num> 651
+ethnic popul 
+ethnic make popul chang 
+document shift ethnic make 
+popul 
+</top>
+
+<top>
+<num> 658
+teenag pregnanc 
+find document discuss teenag pregnanc unit state 
+birth rate teenag mother result 
+teenag pregnanc step reduc number 
+teenag pregnanc 
+relev document discuss teenag pregnanc unit state 
+relev inform teenag abort 
+</top>
+
+<top>
+<num> 689
+famili plan aid 
+countri provid aid support famili plan 
+countri refus limit support 
+relev document aid support 
+famili plan aid deni 
+discuss aid famili plan refus 
+relev document mention aid countri 
+specif famili plan relev 
+descript fund famili plan relev 
+</top>
+

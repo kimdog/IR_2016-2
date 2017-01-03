@@ -1,0 +1,15 @@
+Original Text :
+[DOCNO] : APW20000930.0005
+[HEADLINE] : fbi focus bush employee
+[TEXT] :
+washington ap denials employee george 
+bush's media consultant remains focus fbi investigation 
+videotape debate preparations al 
+==============================================================
+Stemming Text :
+[DOCNO] : APW20000930.0005
+[HEADLINE] : fbi focus bush employe
+[TEXT] :
+washington ap denial employe georg 
+bush media consult remain focus fbi investig 
+videotap debat prepar al 

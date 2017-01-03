@@ -1,0 +1,636 @@
+<top>
+<num> 303
+hubble telescope achievements 
+identify positive accomplishments hubble telescope 
+launched 
+documents relevant show hubble telescope produced 
+data quality data previously data 
+increased human knowledge universe data led 
+disproving previously existing theories hypotheses documents 
+limited shortcomings telescope irrelevant 
+details repairs modifications telescope 
+reference positive achievements relevant 
+</top>
+
+<top>
+<num> 307
+hydroelectric projects 
+identify hydroelectric projects proposed construction 
+country location detailed description nature extent 
+purpose problems consequences desirable 
+relevant documents minimum clear statement 
+hydroelectric project planned construction 
+location project renovation existing 
+facilities judged relevant plans call 
+significant increase acre feet reservoir marked change 
+environmental impact project arguments 
+proposed projects relevant long supported 
+specifics including minimum location 
+project statement individual organization 
+projects general relevant proposals 
+projects underway dismantle existing facilities drain 
+existing reservoirs relevant articles reporting 
+decision drop proposed plan 
+</top>
+
+<top>
+<num> 310
+radio waves brain cancer 
+evidence radio waves radio towers car phones affect 
+brain cancer occurrence 
+persons living radio towers recently persons 
+car phones diagnosed brain cancer argument 
+rages direct association 
+incidence cancer groups cited considered 
+higher found normal population 
+relevant document includes experiment animals statistical 
+study articles news items report incidence brain 
+cancer higher lower persons live 
+radio tower car phones compared 
+general population 
+</top>
+
+<top>
+<num> 314
+marine vegetation 
+commercial harvesting marine vegetation 
+algae seaweed kelp food drug purposes 
+recent research shown marine vegetation 
+valuable source food human animal 
+potentially drug search 
+focus primarily 
+considered relevant instances 
+commercial fertilizer 
+</top>
+
+<top>
+<num> 322
+international art crime 
+isolate instances fraud embezzlement international 
+art trade 
+relevant document report identifies instance 
+fraud embezzlement international buying selling 
+art objects objects include paintings jewelry sculptures 
+valuable works art specific instances 
+identified document relevant generalities 
+relevant 
+</top>
+
+<top>
+<num> 325
+cult lifestyles 
+describe cult identify cult members 
+activities everyday life 
+relevant document include cult 
+offer information members lifestyles 
+include dress attain 
+ultimate goal organization relevant 
+document eat contribute 
+cult mention existence 
+cult clarifying information 
+relevant 
+</top>
+
+<top>
+<num> 330
+iran iraq cooperation 
+query examples cooperation 
+friendly ties iran iraq ways 
+countries considered allies 
+relevant document mention mutually 
+beneficial economic military religious social 
+relations cooperation border control treatment 
+minorities collaboration trade sanctions 
+country mention 
+return airplanes iraq flew iran 
+gulf war relevant 
+</top>
+
+<top>
+<num> 336
+black bear attacks 
+relevant document discuss frequency 
+vicious black bear attacks worldwide 
+savage behavior 
+reported food cosmetics 
+attract hungry black bears causing 
+viciously attack humans relevant 
+documents include aforementioned 
+speculation preferably 
+scientific community 
+vicious attacks black bears 
+relevant document detail steps 
+methods devised wildlife 
+officials control modify 
+savageness black bear 
+</top>
+
+<top>
+<num> 341
+airport security 
+relevant document discuss effective 
+government orders scrutinize passengers 
+luggage international flights step 
+screening carry baggage 
+relevant document reports 
+steps airports worldwide 
+scrutinize passengers luggage 
+international flights step screening 
+carry baggage increase 
+international terrorism wake 
+twa flight disaster articles airport 
+security relating additional 
+steps airports increase flight safety 
+relevant mere mention enhanced 
+security constitute relevance additional 
+steps refer passenger 
+carry screening normal methods 
+examples steps additional personnel 
+sophisticated monitoring screening devices 
+extraordinary measures check luggage 
+baggage compartment 
+</top>
+
+<top>
+<num> 344
+abuses mail 
+availability mail people 
+job school affiliation allowed efficiencies 
+communications provided opportunity 
+abuses steps world wide 
+bearing cost mail prevent excesses 
+relevant document concern dissatisfaction 
+entity paying cost electronic mail 
+sought items relate system users employees 
+abuse system engaging communications type 
+related payer desired system 
+</top>
+
+<top>
+<num> 345
+overseas tobacco sales 
+health studies primarily caused reductions 
+tobacco sales economic impact caused 
+tobacco companies overseas customers 
+impact health economic factors overseas 
+relevant item discuss increase 
+decrease sales tobacco products overseas 
+attribute health findings aggressive marketing 
+companies foreign companies cooperate 
+
+</top>
+
+<top>
+<num> 347
+wildlife extinction 
+spotted owl episode america highlighted efforts 
+prevent extinction wildlife species 
+effort countries prevent 
+demise species native countries 
+countries begun efforts prevent declines 
+relevant item country involved 
+species steps save species 
+</top>
+
+<top>
+<num> 353
+antarctica exploration 
+identify systematic explorations scientific investigations 
+antarctica current planned 
+documents discussing issues relevant 
+</top>
+
+<top>
+<num> 354
+journalist risks 
+identify instances journalist put risk 
+killed arrested hostage performance work 
+document identifying instance journalist 
+correspondent killed arrested hostage 
+performance work relevant 
+</top>
+
+<top>
+<num> 362
+human smuggling 
+identify incidents human smuggling 
+relevant document shows incident humans 
+ten smuggled smugglers 
+realize monetary gain 
+actions people smuggled 
+participants 
+</top>
+
+<top>
+<num> 363
+transportation tunnel disasters 
+disasters occurred tunnels 
+transportation 
+relevant document identifies disaster tunnel 
+trains motor vehicles people wind 
+tunnels tunnels wiring sewage water oil 
+relevant problem 
+fire earthquake flood explosion 
+accidental planned documents discuss tunnel 
+disasters occurring construction tunnel 
+relevant lives threatened 
+</top>
+
+<top>
+<num> 367
+piracy 
+modern instances fashioned 
+piracy boarding control boats 
+documents discussing piracy body water 
+relevant documents discussing legal 
+ships contents national authority 
+relevant clashes fishing vessels 
+fishing relevant vessel 
+boarded 
+</top>
+
+<top>
+<num> 372
+native american casino 
+identify documents discuss growth native 
+american casino gambling 
+relevant documents include discussions 
+native american casino gambling social 
+implications effects local native american 
+economies legal aspects related native 
+american tribal autonomy 
+</top>
+
+<top>
+<num> 374
+nobel prize winners 
+identify provide background information nobel 
+prize winners 
+minimum relevant documents 
+information year nobel prize award 
+field study recipients 
+document announces current award 
+year required 
+</top>
+
+<top>
+<num> 375
+hydrogen energy 
+status research hydrogen 
+feasible energy source 
+relevant document describe progress 
+research controlled hydrogen fusion 
+hydrogen fuel power engines 
+</top>
+
+<top>
+<num> 378
+euro opposition 
+identify documents discuss opposition 
+introduction euro european currency 
+relevant document include countries 
+individuals oppose euro 
+reason opposition 
+</top>
+
+<top>
+<num> 383
+mental illness drugs 
+identify drugs treatment mental illness 
+relevant document include specific 
+generic type drug generalities relevant 
+</top>
+
+<top>
+<num> 389
+illegal technology transfer 
+specific entities accused illegal 
+technology transfer selling products 
+formulas directly indirectly foreign 
+entities peaceful purposes 
+relevant selected document specifically 
+identify person company governmental entity 
+provided articles hostile purposes 
+entities country 
+provision violated laws provider country 
+</top>
+
+<top>
+<num> 393
+mercy killing 
+identify documents discuss mercy killings 
+individual cases mercy killing relevant 
+letters editor mentioning cases relevant 
+removal life support systems relevant general 
+mention description case specifics 
+victim relevant cases determined 
+murder suicide relevant 
+</top>
+
+<top>
+<num> 394
+home schooling 
+identify documents discuss education 
+children home home schooling 
+relevant document data 
+education children home environment 
+included data 
+community acceptance successes additional 
+data programs aiding education 
+disadvantaged children school 
+environment mobile vehicle classrooms 
+considered home schooling 
+relevant 
+</top>
+
+<top>
+<num> 397
+automobile recalls 
+identify documents discuss reasons 
+automobile recalls 
+relevant document major minor reasons 
+automobile recalls car manufacturers documents 
+discuss truck recalls relevant 
+</top>
+
+<top>
+<num> 399
+oceanographic vessels 
+identify documents discuss 
+activities equipment oceanographic 
+vessels 
+relevant documents information 
+activity oceanographic vessels 
+nationality items undersea mapping 
+monitoring global warming marine environmental 
+monitoring deep sea robots 
+search sunken ships relevant oceanography 
+activity relevant actions 
+vessel research development 
+equipment exploring oceanic resources 
+reference equipment aboard oceanographic 
+vessel relevant documents identify vessel 
+survey ship involved oceanographic 
+activity relevant 
+</top>
+
+<top>
+<num> 401
+foreign minorities germany 
+language cultural differences impede integration 
+foreign minorities germany 
+relevant document focus lack 
+integration significant mere mention 
+immigration difficulties relevant documents discuss 
+immigration problems unrelated germany relevant 
+</top>
+
+<top>
+<num> 404
+ireland peace talks 
+peace talks ireland delayed 
+disrupted result acts violence 
+interruptions peace process directly 
+attributable acts violence relevant 
+</top>
+
+<top>
+<num> 408
+tropical storms 
+tropical storms hurricanes typhoons 
+caused significant property damage loss life 
+date storm area affected extent 
+damage casualties interest documents describe 
+damage caused tropical storm slight limited 
+small relevant 
+</top>
+
+<top>
+<num> 409
+legal pan 
+legal actions resulted destruction 
+pan flight lockerbie scotland 
+december 
+documents describing charges claims fines 
+presented imposed court tribunal 
+relevant documents discuss charges made 
+diplomatic jousting relevant 
+</top>
+
+<top>
+<num> 416
+gorges project 
+status gorges project 
+relevant document provide projected 
+date completion project estimated 
+total cost estimated electrical output 
+finished project discussions 
+social political ecological impact 
+project relevant 
+</top>
+
+<top>
+<num> 419
+recycle automobile tires 
+developed 
+automobile tires means tire recycling 
+relevant document show advantageous 
+recycled tires destructive distillation 
+scrap rubber valuable chemicals reef building 
+fish habitats filler binder asphalt 
+roadway mixes burning controlled 
+environment heat generation 
+</top>
+
+<top>
+<num> 426
+law enforcement dogs 
+provide information dogs worldwide 
+law enforcement purposes 
+relevant items include specific information 
+dogs operation training dogs 
+handlers relevant 
+</top>
+
+<top>
+<num> 427
+uv damage eyes 
+find documents discuss damage ultraviolet uv 
+light sun eyes 
+relevant document discuss diseases result 
+exposure eyes uv light treatments 
+damage education programs 
+prevent damage documents discussing treatment 
+methods cataracts ocular melanoma relevant 
+specific mentioned 
+documents discuss radiation damage nuclear 
+sources lasers relevant 
+</top>
+
+<top>
+<num> 433
+greek philosophy stoicism 
+contemporary interest greek 
+philosophy stoicism 
+actual references philosophy philosophers 
+productions greek stoic plays stoic 
+artistic productions relevant 
+</top>
+
+<top>
+<num> 435
+curbing population growth 
+measures worldwide 
+countries effective curbing 
+population growth 
+relevant document describe actual case 
+population measures results 
+reduction measures actively pursued 
+passive events disease famine 
+involuntarily reducing population relevant 
+</top>
+
+<top>
+<num> 436
+railway accidents 
+railway accidents 
+world 
+relevant document data railway accidents 
+sort locomotive trolley streetcar 
+railroad system vehicle pedestrian 
+involved caused accident documents discuss 
+railroading general rail lines technology 
+safety safety accident prevention 
+relevant actual accident 
+</top>
+
+<top>
+<num> 439
+inventions scientific discoveries 
+inventions scientific discoveries 
+made 
+word description defined occurring 
+documents recent 
+invention scientific discovery considered relevant 
+discoveries made astronomy scientific discoveries 
+patentable relevant 
+</top>
+
+<top>
+<num> 443
+investment africa 
+extent government private 
+investment saharan africa 
+references governmental private assistance 
+saharan africa relevant documents discussing 
+contributions reason membership international 
+aid organizations relevant 
+</top>
+
+<top>
+<num> 448
+ship losses 
+identify instances weather main contributing 
+factor loss ship sea 
+ship loss due weather relevant international 
+coastal waters 
+</top>
+
+<top>
+<num> 622
+price fixing 
+identify companies corporations accused indicted 
+price fixing including product type product involved 
+relevant documents company product involved 
+documents price fixing stock market relevant 
+</top>
+
+<top>
+<num> 625
+arrests bombing wtc 
+identify documents provide information arrest 
+conviction bombers world trade center wtc february 
+relevant document information arrest 
+conviction related bombing simple claims involvement 
+relevant 
+</top>
+
+<top>
+<num> 638
+wrongful convictions 
+find documents discuss freed prisoners wrongfully 
+convicted based faulty forensic evidence poor police work false 
+testimony 
+documents political prisoners freed 
+incompetent prosecutions relevant documents 
+discuss prisoners pardoned released bond 
+convictions overturned relevant 
+documents prisoners freed make political 
+statement prisoners freed exchange 
+</top>
+
+<top>
+<num> 639
+consumer line shopping 
+factors contributed growth consumer line 
+shopping 
+relevant document describe factor contributed 
+increase line shopping consumers documents 
+statistical data supporting growth factor 
+relevant 
+</top>
+
+<top>
+<num> 648
+family leave law 
+identify documents discuss details family leave law 
+long compensation reason allowed 
+relevant document detail family leave law 
+relevant mere mention existence law 
+relevant 
+</top>
+
+<top>
+<num> 650
+tax evasion indicted 
+identify individuals corporations indicted 
+charges tax evasion million dollars 
+
+relevant document details large scale tax 
+evasion documents people lost excess million 
+dollars result business organization indicted 
+tax fraud relevant 
+</top>
+
+<top>
+<num> 651
+ethnic population 
+ethnic make population changing 
+documents shift ethnic make 
+population 
+</top>
+
+<top>
+<num> 658
+teenage pregnancy 
+find documents discuss teenage pregnancy united states 
+birth rate teenage mothers results 
+teenage pregnancies steps reduce number 
+teenage pregnancies 
+relevant documents discuss teenage pregnancy united states 
+relevant information teenage abortions 
+</top>
+
+<top>
+<num> 689
+family planning aid 
+countries provide aid support family planning 
+countries refused limited support 
+relevant documents aid supports 
+family planning aid denied 
+discussions aid family planning refused 
+relevant documents mention aid countries 
+specifically family planning relevant 
+descriptions funds family planning relevant 
+</top>
+

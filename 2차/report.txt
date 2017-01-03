@@ -1,0 +1,94 @@
+1차 - parsing 단계에서
+
+token 추가 
+`' ; /	
+
+
+////// buffer 크기 줄이기 . 시도 ( 속도 )
+
+20000403_APW_ENG 중 7번문서가 중간에 오류 (NULL 문제) 가 나는데
+이유를 모르겠어서 하나만 빼둠
+
+
+2차
+
+성능적인 면에서 queue or list
+queue 보다 list 를 선택
+중간에 삽입할 수 있는 insert를 사용하기 위해
+-> 단어 저장의 경우 알파벳순서대로 저장 
+
+작다가 .... 0 으로 같으면 count up
+ 지나버리면 없다는 의미이므로 그 전에 삽입 !
+
+order 형태로 하니 시간이 너무 많이걸려
+not order 자료구조 ...
+
+
+문서 정보 파일에서 - total TF 항목 추가 
+
+-> weight 계산시 효율적으로 . -> 문서 길이 로 해결
+
+
+속도 개선 :
+버퍼크기
+텍스트 말고 바이너리 모드로 파일 입출력
+
+ftf 를 읽을 때,
+필요 없는 부분을 skip 하기 위해 ftell과 fseek 이용
+다시 읽을 시, 처음 단어 등장 부터 시작
+DF를 이용하여 
+뒷부분에 더 읽을 내용이 있어도 바로 break 끝낸다.
+-> sample data기준 934초에서 279초로 개선
+
+text 에서 binary로 바꾸어 저장하였지만
+딱히 속도의 차이는 보이지않았다
+279초 -> 273초
+따라서 수정하지 않음.
+하드웨어가 월등해짐에 따라 별 차이가 없는 것으로 판단
+
+
+direct하게 바로 쓰는게 최고
+속도문제의 해결법은 이거 !!!
+
+
+
+49175  	
+gwwwwwwyyyyyyyyynnthththththth -> gwwyynnthth 
+
+130531
+busydivorcelawyersofamerica -> busydivorcelawyers
+
+165717
+supercalifragilisticexpialidoci -> supercalifragil
+
+178012
+senegalcubahondurasirelandronnie -> senegalcubahondur
+
+178723
+michele4333375932960234957987349 -> michele43333
+
+189507~189514
+ryryryryryryryryryryryryryryryry -> ryryryry
+ryryryryryryryryryryryryryryryry -> ryryryry
+ryryryryryryryryryryryryryryryry -> ryryryry
+12345678900987654321123456789009 -> 1234567890
+ryryryryryryryryryryryryryryryry -> ryryryry
+ryryryryryryryryryryryryryryryry -> ryryryry
+ryryryryryryryryryryryryryryryry -> ryryryry
+12345678900987654321123456789009 -> 1234567890
+
+
+202288
+supercalifragilisticexpialibrosi -> supercalibrosi 
+
+
+
+for 문 941156번 돌리고 다음 라인 안함
+
+
+APW19980601.0003	doohan	9
+APW19980601.0003	call	2
+APW19980601.0003	upgrad	1
+APW19980601.0003	to	18
+APW19980601.0003	1000cc	6
+
