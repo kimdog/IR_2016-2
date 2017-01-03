@@ -5,8 +5,8 @@
 
 1. parsing, stopwording, stemming
 
-2. 역색인
+2. Inverted Index
 
-3. 순위화
+3. Ranking
 
-4. 피드백
+4. Feedback
